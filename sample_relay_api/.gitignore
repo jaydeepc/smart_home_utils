@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+venv3/
+.cache/
+.idea
+*.DS_Store
+__pycache__/
